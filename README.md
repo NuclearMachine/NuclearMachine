@@ -1,4 +1,4 @@
-## 💫 About Me
+# 💫 About Me
 I'm an experienced Web Developer, proficient in Object Oriented languages including Ruby. 
 
 I have been specializing in Ruby on Rails with several front-end frameworks including Vue.js, Ionic, and Angular. Several years of Freelancing endeavors eventually led me to become an expert in Full Stack Web Development.
